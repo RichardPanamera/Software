@@ -1,0 +1,8 @@
+Зашифрован файл: C:/Users/Hitman Gold/Desktop/2_5460680076502783861 (1).docx
+Расшифрован файл: C:/Users/Hitman Gold/Desktop/2_5460680076502783861 (1).docx.encrypted
+Зашифрован файл: C:/Users/Hitman Gold/Documents/Тестовые задания в закрытой форме.docx
+Расшифрован файл: C:/Users/Hitman Gold/Documents/Тестовые задания в закрытой форме.docx.encrypted
+Зашифрован файл: C:/Users/Hitman Gold/Desktop/Project/test.png.jpg
+Расшифрован файл: C:/Users/Hitman Gold/Desktop/Project/test.png.jpg.encrypted
+Расшифрован файл: C:/Users/Hitman Gold/Desktop/Project/test.png.jpg.encrypted
+Зашифрован файл: C:/Users/Hitman Gold/Desktop/Project/test.png.jpg
