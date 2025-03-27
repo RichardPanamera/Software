@@ -1,0 +1,2 @@
+Зашифрован файл: C:/Users/Anarc.DESKTOP-JSK74U7/OneDrive/Рабочий стол/Пример.docx
+Расшифрован файл: C:/Users/Anarc.DESKTOP-JSK74U7/OneDrive/Рабочий стол/Пример.docx.encrypted
